@@ -101,16 +101,12 @@ p {
 /* IMAGENS */
 
 .if {
-    margin-left: 160px;
-    max-width: 75%;
+    margin-left: 250px;
+    max-width: 63%;
     border: 4px solid gold;
     border-radius: 10px;
 }
 
-.imagem2 {
-    width: 400px;
-    margin: 20px;
-}
 
 /* RODAPE */
 
